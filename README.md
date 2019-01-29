@@ -1,1 +1,1 @@
-# profile.kaito.github.io
+# profile-kaito.github.io
